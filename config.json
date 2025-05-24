@@ -16,13 +16,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "JOY-BOT",
-    "PREFIX": ".",
+    "BOTNAME": "Kangue bot",
+    "PREFIX": "/",
     "ADMINBOT": [
-        "100000121528628"
+        "61564459952029"
     ],
     "NDH": [
-        "100000121528628"
+        "61564459952029"
     ],
     "DATABASE": {
         "sqlite": {
